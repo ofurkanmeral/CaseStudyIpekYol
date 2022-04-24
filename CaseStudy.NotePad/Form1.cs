@@ -103,7 +103,7 @@ namespace CaseStudy.NotePad
             //var aranan=Form2.aranan.ToString();
             //var deger = Form2.degisen.ToString();
             //richTextBox1.Text.Contains(aranan);
-            //richTextBox1.Text.Replace(aranan, deger);
+            //richTextBox1.Text.Replace(aranan, deger)
         }
 
         private void newWindowToolStripMenuItem_Click(object sender, EventArgs e)
